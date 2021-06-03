@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a39362b6e6f90a848ec96d64c0540fa0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a39362b6e6f90a848ec96d64c0540fa0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a39362b6e6f90a848ec96d64c0540fa0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e96cd09642be09922598066729808dc7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e96cd09642be09922598066729808dc7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e96cd09642be09922598066729808dc7/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapzen.android/lost/3.0.4/ee1bca54220becc41c30e8ba362f289b9f3424ca/lost-3.0.4-javadoc.jar!/" />

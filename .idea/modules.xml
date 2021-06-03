@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FPVDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/FPVDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FPVDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FPVDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dwget.iml" filepath="$PROJECT_DIR$/.idea/modules/dwget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dwget.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dwget.app.iml" />
     </modules>
   </component>
 </project>

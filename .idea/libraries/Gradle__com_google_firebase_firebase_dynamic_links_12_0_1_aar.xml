@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-dynamic-links:12.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a57a0e077f83e0fbec24195aa4bdf51/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a57a0e077f83e0fbec24195aa4bdf51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a57a0e077f83e0fbec24195aa4bdf51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
